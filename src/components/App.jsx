@@ -1,9 +1,13 @@
 import React from 'react';
 
+import { CssBaseline } from '@mui/material';
+import { Routes, Route } from 'react-router-dom';
+
 const App = () => {
   return (
     <div>
-      <h1>Let's create the App!</h1>
+      <CssBaseline />
+      <h1>Let's Build this Empire!</h1>
     </div>
   );
 };

@@ -12,3 +12,4 @@
 ## Folder structure and Routing
 
 **_ Using React Router Version 6 for Now, Will Refactor the code with the latest version of React Router once the Project is completed _**
+**_ Using Inline Style for Mui and Normal component styling, WIll Update Later _**

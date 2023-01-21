@@ -8,3 +8,7 @@
 4 - Axios : Promise based HTTP client for the browser and node.js -(npm i axios)
 5 - React Redux : Official React bindings for Redux. - (npm i react-redux)
 6 - React Router DOM - (npm i react-router-dom)
+
+## Folder structure and Routing
+
+**_ Using React Router Version 6 for Now, Will Refactor the code with the latest version of React Router once the Project is completed _**
